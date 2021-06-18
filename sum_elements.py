@@ -7,4 +7,4 @@ while i<len(a):
         sum=sum+(a[i][j])
         j+=1
     print(sum)
-    i+=1'''
+    i+=1
